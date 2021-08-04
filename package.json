@@ -1,0 +1,21 @@
+{
+  "name": "task-18",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "normalize.css": "^8.0.1",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elena",
+  "license": "ISC",
+  "keywords": []
+}
